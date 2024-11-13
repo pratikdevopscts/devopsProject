@@ -1,3 +1,3 @@
 # devopsProject
 
-caseStudys updated
+caseStudys updated now
